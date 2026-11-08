@@ -8,6 +8,7 @@ Caracteristicas:
 - Caracteristica 2
 - `Documento1.pdf`
 
-| --- | --- |
-| Titulo 1 | Titulo 2 |
-| Contenido de la tabla con titulo 1 | Contenido de la tabla con titulo 2 |
+|---|---|
+|Titulo 1|Titulo 2|
+|Contenido de la tabla con titulo 1|Contenido de la tabla con titulo 2|
+|---|---|
